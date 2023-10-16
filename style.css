@@ -1,0 +1,47 @@
+.buttons {
+  background-color: #282828;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  margin-top: 10px;
+}
+html,
+body {
+  height: 100%;
+}
+.container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container form {
+  background-color: aqua;
+  padding: 10px;
+  border-radius: 10px;
+}
+.container form li label {
+  background-color: red;
+}
+.container form legend {
+  color: green;
+}
+.container form input {
+  border: none;
+  padding: 6px;
+}
+.container button {
+  background-color: #282828;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  margin-top: 10px;
+}
